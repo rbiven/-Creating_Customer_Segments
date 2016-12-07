@@ -50,4 +50,4 @@ Note (m.u.) is shorthand for *monetary units*.
 
 
 # From Rbiven
-The above is from the Udacity Machine Learning nanodegree course.  I am putting my results on Github for peer review.  If you are interesting in my work, I highly recommend the Udacity Nanodegree course.
+The above is the documentation for one of the projects in the Udacity Machine Learning nanodegree.  I am putting my results on Github for peer review.  If you are interesting in my work or have questions about my methods, please let me know. If you are interesting in learngin more about machine learning, I highly recommend the Udacity Nanodegree course.
